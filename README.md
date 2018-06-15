@@ -1,4 +1,4 @@
-# changlog
+# changelog
 **2018-06-14 100ideas** - tweak css for better viewing on mobile browsers
 
 ---
