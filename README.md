@@ -1,3 +1,8 @@
+# changlog
+**2018-06-14 100ideas** - tweak css for better viewing on mobile browsers
+
+---
+
 # Teleprompter
 
 Teleprompter displays scripts formatted as HTML, Markdown, or plain text,
